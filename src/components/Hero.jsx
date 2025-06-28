@@ -320,7 +320,7 @@ const Hero = () => {
       <div className="fixed top-0 left-0 w-full z-[100] banner-ticker-container">
         <div className="banner-ticker bg-gradient-to-r from-primary-500/40 to-accent-purple/40 text-white font-bold text-lg md:text-2xl py-3 px-2 flex items-center overflow-hidden" style={{backdropFilter:'blur(6px)', opacity:0.65, letterSpacing:'0.04em'}}>
           <div className="banner-ticker-content whitespace-nowrap" style={{fontSize:'2.1rem', fontWeight:700, textShadow:'0 2px 8px #7f5af0'}}>
-            Proud Owner Of Your Website In Next 48 hours
+            Be Proud Owner Of Your Website That Match Your Brand....... Feel Free TO Contact Us Free Guide Lifetime.... If You Are Startup Then Very Reasonable Charges  With High Quality That Make Your Small Brand To Big
           </div>
         </div>
       </div>
