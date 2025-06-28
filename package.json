@@ -3,14 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "autoprefixer": "^10.4.21",
     "cra-template-pwa": "2.0.0",
     "firebase": "^11.9.1",
     "lucide-react": "^0.524.0",
-    "postcss": "^8.5.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "^4.1.11",
     "web-vitals": "^5.0.3",
     "workbox-core": "^7.3.0",
     "workbox-expiration": "^7.3.0",
@@ -48,7 +45,10 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.11",
+    "autoprefixer": "^10.4.21",
     "firebase-tools": "^14.9.0",
-    "react-scripts": "5.0.1"
+    "postcss": "^8.5.6",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^4.1.11"
   }
 }
